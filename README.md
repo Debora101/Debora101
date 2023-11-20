@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Meu+nome+é+Debora+Pompilio;Eu+tenho+24+anos;Sou+mestranda+e+estudante+na+área+de+dados;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-![image](https://github.com/Debora101/Debora101/assets/114294767/d447cb10-6495-456c-addb-808334e349a5)
 
 
 
