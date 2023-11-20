@@ -4,7 +4,7 @@
 
 
 
-![Captura de tela 2023-11-20 112828](https://github.com/Debora101/Debora101/assets/114294767/e2616a0b-4043-4d65-98e6-53fa2772b149)
+![imagem](https://github.com/Debora101/Debora101/assets/114294767/927100ed-ff93-412b-9311-0fa2f4bc55c7)
 
 
 Sou formada em Engenharia de Produção pela Universidade Estadual do Mato Grosso (UNEMAT), onde fui bolsista do CNPq durante a graduação. Atualmente, estou cursando o mestrado na Universidade Federal do Rio Grande do Sul (UFRGS) como bolsista da CAPES. No mestrado, estou envolvida em projetos de pesquisa focados em análises multivariadas de dados espectrais, dedicando-me à ciência de dados e aplicando técnicas de seleção de variáveis e modelos de machine learning para otimizar processos.
