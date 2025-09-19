@@ -1,12 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Meu+nome+é+Debora+Pompilio;Eu+tenho+24+anos;Sou+mestranda+e+estudante+na+área+de+dados;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Debora+Pompilio;Eu+tenho+25+anos;Sou+doutoranda+em+ciência+da_computação+e+estudante+na+área+de+dados;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ##
 
-😊
 
-Sou formada em Engenharia de Produção pela Universidade Estadual do Mato Grosso (UNEMAT), onde fui bolsista do CNPq durante a graduação. Atualmente, estou cursando o mestrado na Universidade Federal do Rio Grande do Sul (UFRGS) como bolsista da CAPES. No mestrado, estou envolvida em projetos de pesquisa focados em análises multivariadas de dados espectrais, dedicando-me à ciência de dados e aplicando técnicas de seleção de variáveis e modelos de machine learning para otimizar processos.
-
+Doutoranda em Ciência da Computação, na linha de pesquisa em inteligência computacional - (UFPR). Mestra em Engenharia de Produção pela Universidade Federal do Rio Grande do Sul, com foco em ciência de dados e inteligência artificial. Tenho trabalhado com dados de Espectroscopia, aplicando algoritmos e métodos de seleção de variáveis para a otimização de processos.
 ##
 - 📈 Atualmente, trabalhando em um projeto de modelos preditivos para dados de amostras de café
 - 💬 Pergunte-me sobre seleção de variáveis e desenvolvimento de modelos preditivos com dados espectrais
